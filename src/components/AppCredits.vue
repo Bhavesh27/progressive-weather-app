@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <small>© <b><a href="https://twitter.com/jimmerioles" target="_blank" rel="noopener">Jim Merioles</a></b> {{ year }} - A <cite>freeCodeCamp</cite> Project</small>
+    <small>© <b><a href="#" target="_blank" rel="noopener">Bhavesh Kumar</a></b></small>
   </footer>
 </template>
 
